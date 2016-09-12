@@ -1,4 +1,4 @@
-# 介绍
+# linux介绍
 
 这是笔记/教程的初始模板，可以从 fork 这个工程开始。
 内容可以自己创建、修改或删除。
@@ -15,3 +15,4 @@
     * [Gitbook 使用入门](http://gitbook-zh.wanqing.me/)/[仓库](https://github.com/wwq0327/gitbook-zh)
     * [GitBook 简明教程](http://www.chengweiyang.cn/gitbook/)/[仓库](https://github.com/chengweiv5/gitbook)
     * [GitBook文档（中文版）](http://chrisniael.gitbooks.io/gitbook-documentation/content/)/[仓库](https://github.com/chrisniael/gitbook-documentation)
+    * maizhou13
